@@ -1,0 +1,10 @@
+E:\12.I\WiCS\szinozon_jatek\bin\Debug\szinozon_jatek.exe.config
+E:\12.I\WiCS\szinozon_jatek\bin\Debug\szinozon_jatek.exe
+E:\12.I\WiCS\szinozon_jatek\bin\Debug\szinozon_jatek.pdb
+E:\12.I\WiCS\szinozon_jatek\obj\Debug\szinozon_jatek.csproj.AssemblyReference.cache
+E:\12.I\WiCS\szinozon_jatek\obj\Debug\szinozon_jatek.Form1.resources
+E:\12.I\WiCS\szinozon_jatek\obj\Debug\szinozon_jatek.Properties.Resources.resources
+E:\12.I\WiCS\szinozon_jatek\obj\Debug\szinozon_jatek.csproj.GenerateResource.cache
+E:\12.I\WiCS\szinozon_jatek\obj\Debug\szinozon_jatek.csproj.CoreCompileInputs.cache
+E:\12.I\WiCS\szinozon_jatek\obj\Debug\szinozon_jatek.exe
+E:\12.I\WiCS\szinozon_jatek\obj\Debug\szinozon_jatek.pdb
